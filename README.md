@@ -2,7 +2,7 @@
 <br>
 
 <br>
-[LIVE](https://disneyplusclone-56f02.web.app/)
+LIVE PROJECT - https://disneyplusclone-56f02.web.app/
 <br>
 
 <br>
