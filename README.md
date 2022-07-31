@@ -2,7 +2,7 @@
 <br>
 
 <br>
-**<h1>[LIVE](https://disneyplusclone-56f02.web.app/).</h1>**
+[LIVE](https://disneyplusclone-56f02.web.app/)
 <br>
 
 <br>
