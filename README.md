@@ -2,7 +2,7 @@
 <br>
 
 <br>
-<a herf="https://disneyplusclone-56f02.web.app/" > Live Link </a>
+<a href="https://disneyplusclone-56f02.web.app/">Live Link</a>
 <br>
 
 <br>
