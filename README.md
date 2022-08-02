@@ -3,7 +3,6 @@
 
 <br>
 <a herf="https://disneyplusclone-56f02.web.app/" > Live Link </a>
-LIVE PROJECT - https://disneyplusclone-56f02.web.app/
 <br>
 
 <br>
